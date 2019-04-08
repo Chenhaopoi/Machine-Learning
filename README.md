@@ -1,2 +1,2 @@
 # Machine-Learning
-My way learning machine learning
+My way to learn machine learning
